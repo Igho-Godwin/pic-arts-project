@@ -12,7 +12,7 @@ A React application to create a virtualized grid
 - [Styled Component](https://styled-components.com/)
 - [Faker](https://www.npmjs.com/package/@faker-js/faker)
 - [EsLint](https://www.npmjs.com/package/eslint)
-react-virtualized-auto-sizer)
+
 
 ## Prerequisites
 
